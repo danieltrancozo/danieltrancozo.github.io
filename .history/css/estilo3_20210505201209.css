@@ -62,15 +62,6 @@ main{
     color: black;
     grid-area: main;
 }
-img{
-    border-radius: 50%;
-}
-h2{
-    font-weight: bold;
-}
-p{
-    font-size: 10pt;
-}
 .t2{
     background-color: transparent;
     width: 100%;

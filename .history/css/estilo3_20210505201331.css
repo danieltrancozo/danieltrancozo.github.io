@@ -63,13 +63,7 @@ main{
     grid-area: main;
 }
 img{
-    border-radius: 50%;
-}
-h2{
-    font-weight: bold;
-}
-p{
-    font-size: 10pt;
+    border-radius: 5;
 }
 .t2{
     background-color: transparent;
