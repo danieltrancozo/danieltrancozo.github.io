@@ -44,15 +44,6 @@ body{
 .menu ul li{
     display: inline;
 }
-.menu ul li button{
-    border: none;
+.menu ul li h1{
     text-transform: uppercase;
-    font-family: 'Playfair Display', serif;
-    height: 100%;
-    font-size: 30pt;
-    margin-left: 20px;
-    cursor: pointer;
-    height: 50;
-    background-color: transparent;
-    color: silver;
 }

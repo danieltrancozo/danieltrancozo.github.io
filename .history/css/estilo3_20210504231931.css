@@ -18,7 +18,6 @@ body{
     color: silver;
     font-family: 'Playfair Display', serif;
     height: 10%;
-    width: 100%;
     position: absolute;
 }
 .corp{
@@ -26,7 +25,6 @@ body{
     color: ghostwhite;
     font-family: 'Roboto Slab', serif;
     height: 90%;
-    width: 100%;
     position: absolute;
     top: 10%;
 }
@@ -48,11 +46,4 @@ body{
     border: none;
     text-transform: uppercase;
     font-family: 'Playfair Display', serif;
-    height: 100%;
-    font-size: 30pt;
-    margin-left: 20px;
-    cursor: pointer;
-    height: 50;
-    background-color: transparent;
-    color: silver;
 }
