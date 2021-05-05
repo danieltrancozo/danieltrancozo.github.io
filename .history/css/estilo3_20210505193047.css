@@ -57,11 +57,16 @@ body{
     grid-template-areas: "main";
     margin: 10px;
 }
-main{
+main, aside{
     background-color: rgba(233, 233, 233, 0.884);
     color: black;
+}
+main{
     grid-area: main;
 }
+/*aside{
+    grid-area: aside;
+}*/
 .t2{
     background-color: transparent;
     width: 100%;
