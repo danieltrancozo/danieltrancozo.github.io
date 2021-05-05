@@ -43,21 +43,20 @@ body{
 }
 .corp{
     background-color: rgb(44, 44, 44);
+    color: ghostwhite;
     font-family: 'Roboto Slab', serif;
     height: 90%;
     width: 100%;
     position: absolute;
     top: 10%;
-}
-.cgrid{
     display: grid;
     grid-template-columns: 4fr 1fr;
-    grid-template-rows: 87vh;
+    grid-template-rows: 98%;
     grid-gap: 10px;
     grid-template-areas: "main aside";
-    margin: 10px;
 }
 main, aside{
+    top: 1%;
     background-color: rgba(233, 233, 233, 0.884);
     color: black;
 }

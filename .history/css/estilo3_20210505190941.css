@@ -43,6 +43,7 @@ body{
 }
 .corp{
     background-color: rgb(44, 44, 44);
+    color: ghostwhite;
     font-family: 'Roboto Slab', serif;
     height: 90%;
     width: 100%;
