@@ -18,6 +18,8 @@ body{
     color: silver;
     font-family: 'Playfair Display', serif;
     height: 10%;
+    margin: 0;
+    padding: 0;
 }
 .corp{
     background-color: rgb(44, 44, 44);
@@ -34,8 +36,9 @@ body{
 .manu{
     width:100%;
     text-align: center;
+    border-width: 1%;
     border-color: transparent;
 }
 td{
-    width: 29%;
+    width: 32%;
 }

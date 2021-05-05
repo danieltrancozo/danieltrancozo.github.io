@@ -34,6 +34,7 @@ body{
 .manu{
     width:100%;
     text-align: center;
+    border-width: 3%;
     border-color: transparent;
 }
 td{
